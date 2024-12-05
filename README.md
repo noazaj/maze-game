@@ -1,11 +1,12 @@
 # Maze Game
 
-A game simulation representing different pathing algorithms written in C. Algorithms ranging from BFS and DFS. Being able to visually see algorithms at work solidifies
-understanding and conceptual thought. Having written it in C, it teaches the fundamentals of programming practices.
+PIVOTING. So, now the program is going to be written in C++ and take on the purpose of a game. This game consists of the same idea
+of a random maze, but now there will be a you, the player, controlling a character to reach the end of the maze. After solving the
+maze, the maze will get slightly bigger increasing difficulty. Did I mention there will be lava rising from the bottom too!? So, the
+maze will get slightly larger and the lava will rise a little faster!
+
+# Dependencies
+
+Right now the
 
 # To-Do
-
-    * Create a 2D matrix to simulate a maze
-        * Use the inputted rows and columns from the user to create the maze
-    * Determine what 'char' should be used as the walls of the maze
-    * A wall has four sides. So, one side of the wall needs to be open in order to create a valid, successful path.
